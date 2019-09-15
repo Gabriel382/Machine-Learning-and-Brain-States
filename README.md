@@ -2,7 +2,7 @@
 
 ## Context
 
-Research project conducted at INSA Rouen on machine learning to test different prediction models in a kaggle database.
+Research project conducted at INSA Rouen on machine learning to test different prediction models in a kaggle database. (download data from Kaggle-dataset section website)
 
 ## Introduction
 
@@ -38,3 +38,7 @@ We will be working with a binary classification algorithm, since we want to know
  * Article-BCIDATA-ALENCAR_MEDEIROS_Gabriel_Henrique : Short article about the project ;
  * BCI_synchronized-brainwave-dataset : Project Code ;
  * Presentation-BCIDATA-ALENCAR_MEDEIROS_Gabriel_Henrique : Presentation of the project carried out at INSA Rouen.
+
+### Kaggle-dataset
+
+https://www.kaggle.com/berkeley-biosense/synchronized-brainwave-dataset
